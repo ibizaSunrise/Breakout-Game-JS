@@ -1,6 +1,6 @@
 # Breakout Game JS
 
-Full responsive
+Full responsive <br>
 Using  localStorage
 
 1) Download the repository
